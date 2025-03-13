@@ -8,6 +8,7 @@ const data = [
       'blurred background',
       'wildlife',
       'animal in its natural habitat',
+      'animal in its natural habitat'
     ],
   },
   {
